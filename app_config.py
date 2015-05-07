@@ -109,13 +109,6 @@ SHARE_URL = 'http://%s/%s/' % (PRODUCTION_S3_BUCKET['bucket_name'], PROJECT_SLUG
 ADS
 """
 
-NPR_DFP = {
-    'STORY_ID': '1002',
-    'TARGET': 'homepage',
-    'ENVIRONMENT': 'NPRTEST',
-    'TESTSERVER': 'false'
-}
-
 """
 SERVICES
 """
